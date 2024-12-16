@@ -40,3 +40,9 @@ a {
     color-scheme: dark;
   }
 }
+
+.imageContainer {
+  position: relative;
+  height: 400px;
+  width: 100%;
+}
